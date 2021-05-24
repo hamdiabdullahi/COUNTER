@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+}
+#container{
+    height: 300px;
+    border: 20px crimson;
+    width: 500px;
+    margin:  auto;
+    margin-top: 60px;
+    background-color: darkgreen;
+}
+h1{
+    text-align: center;
+    color: darkred;
+}
+#number{
+    height: 30px;
+    width: 200px;
+    border:30px darkred;
+    text-align: center;
+    margin: 70px auto;
+    background-color:white;
+}
+
+#increment{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+#decrement{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;
+}
